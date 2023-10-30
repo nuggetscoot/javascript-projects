@@ -1,1 +1,8 @@
 /* Start adding your styling below! */ 
+body {
+    background-color: yellow;
+}
+
+h1 {
+    font-size: 36px;
+}
